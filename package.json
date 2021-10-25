@@ -21,5 +21,9 @@
   "homepage": "https://github.com/kosta-j/goit-nodejs-hw-01-cli-app#readme",
   "devDependencies": {
     "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0"
   }
 }
