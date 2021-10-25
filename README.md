@@ -13,7 +13,7 @@ node index.js --action get --id 5
 ### Добавляем контакт
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
-![add](https://monosnap.com/file/hTnUPEQFhKgnh0dP0rd9n2yqZVklRB)
+![add](https://ibb.co/c37TfqJ)
 
 ### Удаляем контакт
 
