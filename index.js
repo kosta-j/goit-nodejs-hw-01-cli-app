@@ -1,2 +1,3 @@
-const fs = require("fs/promises");
-fs.readFile;
+const contacts = require("./contacts");
+
+contacts.listContacts();
